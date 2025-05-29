@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.img-hero {
+  height: 30rem;
+}
+
+/* apne CSS ya Tailwind config me */
+.min-mb {
+  margin-bottom: min(10rem, 20%);
+}
+
+
+
